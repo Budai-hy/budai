@@ -1,0 +1,17 @@
+<view class="body">
+<view class="flex-row">
+<view bindtap="change" id="c" class="{{btncss.c}}">C</view>
+<view bindtap="change" id="d" class="{{btncss.d}}">D</view>
+<view bindtap="change" id="e" class="{{btncss.e}}">E</view>
+<view bindtap="change" id="f" class="{{btncss.f}}">F</view>
+<view bindtap="change" id="g" class="{{btncss.g}}">G</view>
+<view bindtap="change" id="a" class="{{btncss.a}}">A</view>
+<view bindtap="change" id="b" class="{{btncss.b}}">B</view>
+</view>
+<view>
+<image mode="scaleToFill" src="{{src}}"></image>
+</view>
+</view>
+<view class="foot">
+<text>尤克里里，666!</text>
+</view>
